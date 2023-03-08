@@ -3,6 +3,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)
 # Projeto em Grupo - Módulo 4 - Visualizando a situação
 
+## O que é para fazer?✨
+
+**Nosso objetivo como squad é criar uma Dashboard com base no conjunto de dados escolhidos por nós mesmos(foi escolhido Game of Thrones), a fim de realizar uma apresentação com a exploração dos dados.**
+
+<a href="https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC">Bases disponíveis </a>
+
 
 ## Colaboradores 💻
 
@@ -19,3 +25,43 @@
     </tr>
   </tbody>
 </table>
+
+
+## Objetivos✨
+</div>
+<ul>
+<li>Ideação/Brainstorm sobre perguntas que
+podem ser respondidas pelos dados: Análise
+o conjunto de dados selecionado para que as
+perguntas sejam pertinentes.</li>
+<li>Estruturar o esquema do banco de dados: A
+partir da avaliação do conjunto de dados
+fornecidos, modelar as tabelas do banco. Note que
+não é necessário mapear todas as colunas de todas
+as tabelas. Mantenha sua implementação simples
+construindo um modelo que atende às perguntas
+elaboradas pelo grupo.</li>
+<li>Realizar carga no banco: Com base no
+esquema desenhado e criado, subir os dados
+presentes nos arquivos para o banco de dados a fim
+de verificar o funcionamento da solução
+encontrada.</li>
+<li>Criar visualizações dos dados com base nas
+perguntas elaboradas: aqui vocês podem usar
+planilhas (Excel / Google), Metabase, Tableau,
+Power Bi, etc.
+</li>
+</ul>
+
+<div align="center">
+
+## Aplicativos e Ferramentas usadas no projeto 💾
+</div>
+
+  - [x] MySQL Workbench
+  - [x] Git
+  - [x] Excel
+  - [x] Canva
+  - [x] 
+  - [x]  
+
