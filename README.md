@@ -3,6 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)
 # Projeto em Grupo - Módulo 4 - Visualizando a situação
 
+![got](https://cdn-images-1.medium.com/fit/t/1600/480/1*x_d3_8CiR-DraMuns-ZKGA.jpeg)
+
 ## O que é para fazer?💬
 
 **Nosso objetivo como squad é criar uma Dashboard com base no conjunto de dados escolhidos por nós mesmos(o escolhido foi Game of Thrones), a fim de realizar uma apresentação com a exploração dos dados.**
@@ -55,36 +57,63 @@ Power Bi, etc.
 
 <div align="center">
 
-## Aplicativos e Ferramentas usadas no projeto 💾
+### Objetivo extra
+
+**🌟Utilize consultas com diversidade de operações: filtragem
+múltipla, agregação, subconsultas, ordenação, joins, etc.🌟**
+
+</div>
+
+<div align="center">
+
+## Aplicativos e Ferramentas usadas no projeto 💾🖥️
 </div>
 
   - [x] MySQL Workbench
   - [x] Git
   - [x] Excel
   - [x] Canva
-  - [x] 
-  - [x]  
+  
   <div align="center">
   
-  ## Gráficos e perguntas 📊
+  ## Perguntas consultadas no Banco de Dados
+  
+  </div>
+  
+  ⚔️ Quais os 5 episódios mais comentados pela internet.
+  
+  ⚔️Quais temporadas e episódios foram dirigidos por Alana Taylor.
+  
+  ⚔️Quais casas estão localizadas no norte(north).
+  
+  ⚔️Quantas famílias tem a série e quantas são da Ilhas de Ferro(Iron Islands).
+  
+  ⚔️Qual temporada(season) tem mais episódios com nota acima de 9.
+  
+  <div align="center">
+  
+  ## Gráficos dos resultados 📊
   
 </div>
 
+<div align="center">
 
 ### Pergunta 1: Quais os 5 episódios mais comentados pela internet?
-![p1](https://raw.githubusercontent.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/main/Graficos/graficoP1.png)
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP1.png?raw=true" alt= “” width="800" height="600">
 
 ### Pergunta 2: Quais temporadas e episódios foram dirigidos por Alana Taylor?
-![p2](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP2.png?raw=true)
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP2.png?raw=true" alt= “” width="800" height="600">
 
 ### Pergunta 3: Quais casas estão localizadas no norte(north)?
-![p3](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP3.png?raw=true)
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP3.png?raw=true" alt= “” width="800" height="600">
 
 ### Pergunta 4: Quantas famílias tem a série e quantas são da Ilhas de Ferro(Iron Islands)?
 
-![p4](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP4.png?raw=true)
+![p4](https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP4.png?raw=true)
 
 
-### Pergunta 5: Qual temporada(season) tem mais episódios com nota acima de 97?
+### Pergunta 5: Qual temporada(season) tem mais episódios com nota acima de 9?
 
-<img src="https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP5.png?raw=true" alt= “” width="400" height="600">
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP5V.png?raw=true" alt= “” width="800" height="600">
+
+</div>
