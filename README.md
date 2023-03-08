@@ -3,9 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00d9&size=40&center=true&vCenter=true&width=1000&lines=+DashBoard+Banco+de+Dados+Squad6)
 # Projeto em Grupo - Módulo 4 - Visualizando a situação
 
-## O que é para fazer?✨
+## O que é para fazer?💬
 
-**Nosso objetivo como squad é criar uma Dashboard com base no conjunto de dados escolhidos por nós mesmos(foi escolhido Game of Thrones), a fim de realizar uma apresentação com a exploração dos dados.**
+**Nosso objetivo como squad é criar uma Dashboard com base no conjunto de dados escolhidos por nós mesmos(o escolhido foi Game of Thrones), a fim de realizar uma apresentação com a exploração dos dados.**
 
 <a href="https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC">Bases disponíveis </a>
 
