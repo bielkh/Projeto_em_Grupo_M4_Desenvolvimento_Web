@@ -64,4 +64,27 @@ Power Bi, etc.
   - [x] Canva
   - [x] 
   - [x]  
+  <div align="center">
+  
+  ## Gráficos e perguntas 📊
+  
+</div>
 
+
+### Pergunta 1: Quais os 5 episódios mais comentados pela internet?
+![p1](https://raw.githubusercontent.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/main/Graficos/graficoP1.png)
+
+### Pergunta 2: Quais temporadas e episódios foram dirigidos por Alana Taylor?
+![p2](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP2.png?raw=true)
+
+### Pergunta 3: Quais casas estão localizadas no norte(north)?
+![p3](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP3.png?raw=true)
+
+### Pergunta 4: Quantas famílias tem a série e quantas são da Ilhas de Ferro(Iron Islands)?
+
+![p4](https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP4.png?raw=true)
+
+
+### Pergunta 5: Qual temporada(season) tem mais episódios com nota acima de 97?
+
+<img src="https://github.com/bielkh/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Graficos/graficoP5.png?raw=true" alt= “” width="400" height="600">
